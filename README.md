@@ -2,7 +2,7 @@
 In each section (PyBank and PyPoll), there will be a "Resources" folder housing the csv files used, an "analysis" folder containing findings from the dataset, and a file called "main.py" with Python script used in order to perform analysis. 
 
 
-PyBank: Analyzing a financial dataset using Python to determine the following: 
+*PyBank: Analyzing a financial dataset using Python to determine the following: 
   
   -The total number of months included in the dataset
   
@@ -15,7 +15,7 @@ PyBank: Analyzing a financial dataset using Python to determine the following:
   -The greatest decrease in profits (date and amount) over the entire period
 
 
-PyPoll: Analyzing poll data for the following:
+*PyPoll: Analyzing poll data for the following:
   
   -The total number of votes cast
  
