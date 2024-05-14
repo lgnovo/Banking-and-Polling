@@ -1,4 +1,4 @@
-# Banking-and-Polling
+# Bank-and-Poll-Analysis
 In each section (PyBank and PyPoll), there will be a "Resources" folder housing the csv files used, an "analysis" folder containing findings from the dataset, and a file called "main.py" with Python script used in order to perform analysis. 
 ________________________________________________________________
 
